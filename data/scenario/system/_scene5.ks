@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/сцена6.jpg"  ]
+[preload  storage="./data/fgimage/default/Rectangle_2.png"  ]
+[preload  storage="./data/fgimage/default/Frame_2_(1).png"  ]
+[preload  storage="./data/fgimage/default/Frame_3_(1).png"  ]
+[return]
