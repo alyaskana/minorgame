@@ -19,6 +19,5 @@
 [tb_image_show  time="1000"  storage="default/Frame_6.png"  width="496"  height="145"  x="750"  y="480"  name="img_28"  ]
 [wait  time="1000"  ]
 [tb_image_hide  time="1000"  ]
-[tb_ptext_hide  time="1000"  ]
 [jump  storage="scene9.ks"  target="*start"  ]
 [s  ]

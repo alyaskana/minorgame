@@ -1,3 +1,3 @@
-[preload  storage="./data/bgimage/сцена1формат.jpg"  ]
-[preload  storage="./data/fgimage/chara/1/главперс3.png"  ]
+[preload  storage="./data/bgimage/сцена7.jpg"  ]
+[preload  storage="./data/fgimage/default/Frame_6.png"  ]
 [return] 
